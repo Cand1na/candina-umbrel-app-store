@@ -1,10 +1,10 @@
 manifestVersion: 1
 id: candina-npps4
-name: LLSIF NPPS4 Server
+name: NPPS4
 tagline: A private server for Love Live School Idol Festival
 icon: https://svgur.com/i/mvA.svg
 category: Games
-version: "1.0.0"
+version: "1.0.1"
 port: 51376
 description: A private server for Love Live School Idol Festival.
 developer: MikuAuahDark
