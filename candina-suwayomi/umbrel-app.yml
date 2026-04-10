@@ -1,0 +1,23 @@
+manifestVersion: 1
+id: candina-suwayomi
+name: Suwayomi
+tagline: A free and open source manga reader server that runs extensions built for Mihon (Tachiyomi).
+icon: https://raw.githubusercontent.com/Suwayomi/Suwayomi-Server/master/server/src/main/resources/icon/faviconlogo.png
+category: Books
+version: "2.1.1867"
+port: 4567
+description: Suwayomi is an independent Mihon (Tachiyomi) compatible software and is not a Fork of Mihon (Tachiyomi).
+developer: Youwes09
+website: https://github.com/Suwayomi/Suwayomi-Server
+submitter: Candina
+submission: https://github.com/Cand1na/candina-umbrel-app-store
+repo: https://github.com/Cand1na/candina-umbrel-app-store
+support: https://github.com/Cand1na/candina-umbrel-app-store/issues
+gallery:
+  - https://easypanel.io/assets/images/screenshot-dcae631c02a939a66c31eec1af406fe4.png
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
