@@ -4,19 +4,9 @@ services:
     ports:
       - "7810:8080"
     restart: unless-stopped
-    healthcheck:
-      test: ["CMD", "curl", "-f", "http://localhost:7810/healthz"]
-      interval: 30s
-      timeout: 10s
-      retries: 3
     volumes:
       - /etc/localtime:/etc/localtime:ro # Sync time with host
-      - kamiyomu_manga:/manga
-      - kamiyomu_database:/db
-      - kamiyomu_agents:/agents
-      - kamiyomu_logs:/logs
-volumes:
-  kamiyomu_manga: ${APP_DATA_DIR}/manga:/manga
-  kamiyomu_database: ${APP_DATA_DIR}/db:/db
-  kamiyomu_agents: ${APP_DATA_DIR}/agents:/agents
-  kamiyomu_logs: ${APP_DATA_DIR}/logs:/logs
+      - ${APP_DATA_DIR}/manga:/manga
+      - ${APP_DATA_DIR}/db:/db
+      - ${APP_DATA_DIR}/agents:/agents
+      - ${APP_DATA_DIR}/logs:/logs
