@@ -2,7 +2,7 @@ manifestVersion: 1
 id: candina-npps4
 name: NPPS4
 tagline: A private server for Love Live School Idol Festival
-icon: https://svgur.com/i/mvA.svg
+icon: https://raw.githubusercontent.com/Cand1na/candina-umbrel-app-store/refs/heads/master/candina-npps4/logo.png
 category: Games
 version: "1.0.1"
 port: 51376
