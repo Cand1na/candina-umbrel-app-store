@@ -2,7 +2,7 @@ manifestVersion: 1
 id: candina-kamiyomu
 name: KamiYomu
 tagline: A self-hosted, extensible manga reader and download tool
-icon: https://avatars.githubusercontent.com/u/242082676.png
+icon: https://avatars.githubusercontent.com/u/242082676
 category: Books
 version: "1.2.0"
 port: 7810
