@@ -19,18 +19,18 @@ gallery:
   - https://raw.githubusercontent.com/KamiYomu/KamiYomu/refs/heads/main/screenshots/welcome-page.jpeg
 releaseNotes: >-
   KamiYomu version 1.2.0 introduces a major leap in how you interact with your library through the new Public API and OPDS support. This update transforms KamiYomu from a standalone reader into a versatile content server, allowing you to connect your favorite external reading apps and automate your manga management with ease.
-✨ What's New
+What's New
 OPDS Public API Support You can now connect external e-reader applications (like Panels, Chunky, or Moon+ Reader) directly to KamiYomu using the Open Publication Distribution System (OPDS) standard. /public/api/v1/opds
 Enhanced File Downloads Added native support for downloading content in EPUB, PDF, and ZIP formats via OPDS, ensuring compatibility with almost any reading device.
 Crawler Agent Read-Only API New API endpoints to view the status and configuration of your crawler agents, providing better transparency into background tasks. /public/api/v1/opds
 Dedicated Download API A new specialized API to handle chapter and volume downloads programmatically. public/api/v1/collection
 Updated Navigation The footer has been updated with quick links to the Public API documentation and the OPDS feed for easier setup.
 Online Interactive API Documentation swagger is available /public/api/swagger/index.html
-🛠️ Improvements & Stability
+Improvements & Stability
 Middleware Error Handling Implemented a new error-handling middleware to provide more descriptive feedback and prevent service interruptions during API requests.
 Documentation The README has been overhauled to include comprehensive instructions on setting up and using the new OPDS features.
 System Refinement General code stabilization and performance improvements across the core development branch.
-🔮 Coming Next
+Coming Next
 N8N Workflow Integration Automate and extend your manga workflows using N8N.
 Expanded Notification Services Support for additional notification channels beyond Gotify.
 Enhanced Kavita Synchronization Deeper integration and smarter updates to keep your external libraries in sync.
