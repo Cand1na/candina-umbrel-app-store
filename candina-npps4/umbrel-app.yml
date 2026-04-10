@@ -14,9 +14,7 @@ submission: https://github.com/Cand1na/candina-umbrel-app-store
 repo: https://github.com/Cand1na/candina-umbrel-app-store
 support: https://github.com/Cand1na/candina-umbrel-app-store/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://upload.wikimedia.org/wikipedia/en/4/4a/Love_Live%21_School_Idol_Festival_gameplay.jpeg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
