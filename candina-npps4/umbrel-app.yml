@@ -4,7 +4,7 @@ name: NPPS4
 tagline: A private server for Love Live School Idol Festival
 icon: https://raw.githubusercontent.com/Cand1na/candina-umbrel-app-store/refs/heads/master/candina-npps4/logo.png
 category: Games
-version: "1.0.1"
+version: "1.0.2"
 port: 51376
 description: A private server for Love Live School Idol Festival.
 developer: MikuAuahDark
