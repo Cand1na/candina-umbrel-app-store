@@ -1,0 +1,10 @@
+services:
+  explo:
+    image: ghcr.io/lumepart/explo:latest
+    restart: unless-stopped
+    container_name: explo
+    volumes:
+      - ${UMBREL_ROOT}/home/Downloads/music/.explo:/data
+    environment:
+      - TZ=UTC
+      - WEEKLY_EXPLORATION_SCHEDULE=15 00 * * 2

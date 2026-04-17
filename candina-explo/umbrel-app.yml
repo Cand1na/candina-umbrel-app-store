@@ -1,0 +1,22 @@
+manifestVersion: 1
+id: candina-explo
+name: Explo
+tagline: Music Discovery for Self-Hosted Music Systems
+icon: https://raw.githubusercontent.com/Cand1na/candina-umbrel-app-store/refs/heads/master/candina-npps4/logo.png
+category: Music
+version: "0.11.5"
+description: Explo bridges the gap between music discovery and self-hosted music systems. Its main function is to act as a self-hosted alternative to Spotify’s Discover Weekly, automating music discovery based on your listening history.
+developer: LumePart
+website: https://github.com/LumePart/Explo/tree/main
+submitter: Candina
+submission: https://github.com/Cand1na/candina-umbrel-app-store
+repo: https://github.com/Cand1na/candina-umbrel-app-store
+support: https://github.com/Cand1na/candina-umbrel-app-store/issues
+gallery:
+  - https://upload.wikimedia.org/wikipedia/en/4/4a/Love_Live%21_School_Idol_Festival_gameplay.jpeg
+releaseNotes: >-
+  Add what's new in the latest version of your app here.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
