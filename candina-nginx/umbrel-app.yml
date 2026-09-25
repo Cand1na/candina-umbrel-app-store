@@ -8,12 +8,11 @@ version: "1.0"
 port: 8143
 description: An NGINX static web server running on Alpine.
 developer: nginx
-website: https://github.com/DarkEnergyProcessor/NPPS4
+website: https://github.com/nginx/nginx
 submitter: Candina
 submission: https://github.com/Cand1na/candina-umbrel-app-store
 repo: https://github.com/Cand1na/candina-umbrel-app-store
 support: https://github.com/Cand1na/candina-umbrel-app-store/issues
-gallery:
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
