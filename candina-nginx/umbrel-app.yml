@@ -4,8 +4,8 @@ name: Web Server
 tagline: An NGINX static web server running on Alpine.
 icon: https://raw.githubusercontent.com/Cand1na/candina-umbrel-app-store/refs/heads/master/candina-nginx/logo.png
 category: Games
-version: "1.0.2"
-port: 51376
+version: "1.0"
+port: 8143
 description: An NGINX static web server running on Alpine.
 developer: nginx
 website: https://github.com/DarkEnergyProcessor/NPPS4
