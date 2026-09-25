@@ -3,8 +3,8 @@ id: candina-nginx
 name: Web Server
 tagline: An NGINX static web server running on Alpine.
 icon: https://raw.githubusercontent.com/Cand1na/candina-umbrel-app-store/refs/heads/master/candina-nginx/logo.jpg
-category: Games
-version: "1.1"
+category: Networking
+version: "1.2"
 port: 8143
 description: An NGINX static web server running on Alpine.
 developer: nginx

@@ -1,10 +1,4 @@
 services:
-  app_proxy:
-    environment:
-      APP_HOST: nginx_server_1
-      APP_PORT: '8143'
-      PROXY_AUTH_ADD: 'false'
-    container_name: nginx_app_proxy_1
   web:
     image: nginx:alpine
     container_name: nginx_web_server
