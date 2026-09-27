@@ -13,6 +13,8 @@ submitter: Candina
 submission: https://github.com/Cand1na/candina-umbrel-app-store
 repo: https://github.com/Cand1na/candina-umbrel-app-store
 support: https://github.com/Cand1na/candina-umbrel-app-store/issues
+gallery:
+  - https://nginx.org/img/nginx_logo_dark.svg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
